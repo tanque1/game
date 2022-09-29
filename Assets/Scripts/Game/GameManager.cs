@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
+    public void LoadScene(string name){
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public static void LoadUI(){
+
+    }
+
+    public void HandleLevel1Reloaded(){
+
     }
 }

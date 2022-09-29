@@ -46,7 +46,7 @@ public class WorldIntroController : MonoBehaviour
         if (worldNumberText)
         {
             worldNumberText.text =
-                LevelController.levelIntroNumbers[LevelController.index];
+                LevelController.levelIntroNumbers[LevelController.index].ToString();
         }
     }
 
