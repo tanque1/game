@@ -25,4 +25,10 @@ public class EventManager
     public static Action MoveRightClicked;
 
     public static Action MoveLeftClicked;
+
+    public static Action CoinPickupEvent;
+
+    public static Action StarPickupEvent;
+
+    public static Action LivesPickupEvent;
 }
