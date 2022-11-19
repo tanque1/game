@@ -31,4 +31,15 @@ public class EventManager
     public static Action StarPickupEvent;
 
     public static Action LivesPickupEvent;
+
+    public static Action FireFlowerPickupEvent;
+
+    public static Action BButtonClicked;
+
+    public static Action RedMushroomPickupEvent;
+
+    public static Action LivesUpdatedEvent;
+
+    
+
 }

@@ -182,6 +182,58 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1102 &-807263184295402689
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireMarioIdle
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: a7969c0cdaba673439c4c8c21ad47574, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &-687677113514918063
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BigMarioIdle
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: cd1ae95037748ee4b8078d34df89da39, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
@@ -334,7 +386,7 @@ AnimatorStateMachine:
     m_Position: {x: 550, y: -10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8692293576851857009}
-    m_Position: {x: 540, y: 80, z: 0}
+    m_Position: {x: 560, y: 70, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6951092533108824211}
     m_Position: {x: 540, y: 140, z: 0}
@@ -356,6 +408,12 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 5790366303227321956}
     m_Position: {x: 625, y: 505, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -807263184295402689}
+    m_Position: {x: 660, y: 570, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -687677113514918063}
+    m_Position: {x: 695, y: 635, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

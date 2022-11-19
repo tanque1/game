@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 5461725340992663038}
   m_Layer: 0
   m_Name: SmallMarioCollider
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -153,7 +153,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2326717448099655121}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.022, z: 0}
+  m_LocalPosition: {x: 0, y: 0.0146, z: 0}
   m_LocalScale: {x: 0.1575, y: 0.17482787, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -314,6 +314,37 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &3327797402999258834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3180581260362365199}
+  m_Layer: 0
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3180581260362365199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3327797402999258834}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.066, y: -0.004, z: -0.09766264}
+  m_LocalScale: {x: 0.062061157, y: 0.077431254, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5201439443707180087}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3344674762274708845
 GameObject:
   m_ObjectHideFlags: 0
@@ -454,7 +485,7 @@ GameObject:
   - component: {fileID: 9077957393828370971}
   m_Layer: 0
   m_Name: BigMarioCollider
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -684,6 +715,7 @@ GameObject:
   - component: {fileID: 586899886826342456}
   - component: {fileID: 1379938405386134429}
   - component: {fileID: 3807372203368322191}
+  - component: {fileID: 6976633208618413156}
   m_Layer: 0
   m_Name: Mario
   m_TagString: Player
@@ -706,6 +738,7 @@ Transform:
   - {fileID: 3589721606579010005}
   - {fileID: 1772687950623740402}
   - {fileID: 458840155944471547}
+  - {fileID: 3180581260362365199}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -863,6 +896,9 @@ MonoBehaviour:
   playerStateController: {fileID: 3807372203368322191}
   playerAudioController: {fileID: 6474778995914621252}
   playerAnimationController: {fileID: 2101845429878416719}
+  fireball: {fileID: 5954321655929728088, guid: c54b17b36ee72e146b2c7d361969662d, type: 3}
+  spawnPoint: {fileID: 3180581260362365199}
+  megaMarioController: {fileID: 6976633208618413156}
 --- !u!114 &1379938405386134429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -889,6 +925,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07dcd62acac5a7b41a98dd4739aa7d62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &6976633208618413156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5201439443707180085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff87465ac978f442b427a52115b5825, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mario: {fileID: 5201439443707180085}
+  hereWeGoSource: {fileID: 7865928892296657189}
+  megaMarioMusic: {fileID: 3422836494882234616}
 --- !u!1 &6059865730273948929
 GameObject:
   m_ObjectHideFlags: 0

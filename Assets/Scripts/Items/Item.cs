@@ -37,7 +37,7 @@ public abstract class Item : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag.Equals(Tags.PLAYER))
+        if (collision.tag.Equals(Tags.PLAYER))
         {
             DisableCollider();
             HandlePickup();

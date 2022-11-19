@@ -8,10 +8,40 @@ public class GameManager : MonoBehaviour
 
     public static GameObject Mario;
 
+    public PlayerManager playerManager;
+
     private void Awake()
     {
-        Debug.Log("LoadPlayer");
         Mario = GameObject.FindGameObjectWithTag("Player");
+        playerManager = Mario.GetComponent<PlayerManager>();
+    }
+
+    void Start()
+    {
+        EventManager.FireFlowerPickupEvent += HandleFireFlowerPickup;
+        EventManager.RedMushroomPickupEvent += HandleRedMushroomPickupEvent;
+    }
+
+    void OnDestroy()
+    {
+        EventManager.FireFlowerPickupEvent -= HandleFireFlowerPickup;
+        EventManager.RedMushroomPickupEvent -= HandleRedMushroomPickupEvent;
+    }
+
+    void HandleFireFlowerPickup()
+    {
+        if (playerManager != null)
+        {
+            playerManager.HandleMarioFireMode();
+        }
+    }
+
+    void HandleRedMushroomPickupEvent()
+    {
+        if (playerManager != null)
+        {
+            playerManager.HandleMarioBigMode();
+        }
     }
 
     public static void LoadScene(string name)

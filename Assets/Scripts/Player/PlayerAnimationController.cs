@@ -75,6 +75,7 @@ public class PlayerAnimationController : MonoBehaviour
     {
         if (GameState.Mode == GameState.PlayerMode.FIRE)
         {
+
             animator.Play (fireMarioAnim);
         }
         else if (GameState.Mode == GameState.PlayerMode.BIG)

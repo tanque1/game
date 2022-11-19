@@ -17,6 +17,14 @@ public class PlayerManager : MonoBehaviour
     [SerializeField]
     PlayerAnimationController playerAnimationController = null;
 
+    [SerializeField]
+    GameObject fireball = null;
+
+    [SerializeField]
+    Transform spawnPoint = null;
+
+    [SerializeField] MegaMarioController megaMarioController = null;
+
     bool canMarioMove = true;
 
     void OnEnable()
@@ -41,6 +49,8 @@ public class PlayerManager : MonoBehaviour
         EventManager.MoveRightClicked += HandleMarioMoveRight;
         EventManager.MoveLeftClicked += HandleMarioMoveLeft;
         EventManager.AButtonClicked += HandleMarioMoveUp;
+        EventManager.BButtonClicked += ShootFireball;
+        EventManager.MegaMushroomPickupEvent += HandleMegaMario;
     }
 
     private void OnDestroy()
@@ -59,6 +69,14 @@ public class PlayerManager : MonoBehaviour
         EventManager.MoveRightClicked -= HandleMarioMoveRight;
         EventManager.MoveLeftClicked -= HandleMarioMoveLeft;
         EventManager.AButtonClicked -= HandleMarioMoveUp;
+        EventManager.BButtonClicked -= ShootFireball;
+        EventManager.MegaMushroomPickupEvent -= HandleMegaMario;
+
+    }
+
+    private void HandleMegaMario(){
+        HandleMarioBigMode();
+        megaMarioController.enabled = true;
     }
 
     void Update()
@@ -89,12 +107,28 @@ public class PlayerManager : MonoBehaviour
         {
             HandleMarioMoveRight();
         }
+        else if (Input.GetKeyDown(KeyCode.Z))
+        {
+            ShootFireball();
+        }
         else
         {
             if (playerMoveController.IsMarioMoving())
             {
                 Invoke("HandleMarioIdle", 1.0f);
             }
+        }
+    }
+
+    private void ShootFireball()
+    {
+        if (
+            playerStateController.IsMarioInFireState() &&
+            !GameState.IsWaterLevel
+        )
+        {
+            GameObject fire = Instantiate(fireball, spawnPoint.transform);
+            fire.transform.parent = null;
         }
     }
 
@@ -245,6 +279,23 @@ public class PlayerManager : MonoBehaviour
         {
             collision.gameObject.transform.parent.SendMessage("Break");
             collision.gameObject.SendMessage("Break");
+        }
+    }
+
+    public void HandleMarioFireMode()
+    {
+        playerAnimationController.SetFireMario();
+        playerStateController.SetFireState();
+        playerCollisionController.MarioGotBigger();
+    }
+
+    public void HandleMarioBigMode()
+    {
+        if (playerStateController.IsMarioInRegularState())
+        {
+            playerAnimationController.SetBigMario();
+            playerStateController.SetBigState();
+            playerCollisionController.MarioGotBigger();
         }
     }
 }
