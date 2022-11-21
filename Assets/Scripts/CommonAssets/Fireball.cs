@@ -55,6 +55,7 @@ public class Fireball : MonoBehaviour
             }
             catch (Exception e)
             {
+                Debug.Log(e);
             }
             Destroy (gameObject);
         }

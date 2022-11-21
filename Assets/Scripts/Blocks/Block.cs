@@ -8,7 +8,7 @@ public abstract class Block : MonoBehaviour
     protected Animator blockAnimator = null;
 
     [SerializeField]
-    protected AudioSource blockHitSource = null;
+    protected AudioSource blockHitSound = null;
 
     [SerializeField]
     protected BlockTrigger blockTrigger = null;
