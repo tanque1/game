@@ -1,0 +1,2403 @@
+fileFormatVersion: 2
+guid: 893855e4704d41a449dfe12d617edf0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df23540ee2d3b048803c1273434bc02
+      internalID: -1641140773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea95fdee350c8624a8873905d69f23b3
+      internalID: -1776368734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5a2785e8cdda4985a026d2c8e7ef5
+      internalID: 84897802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912acaff5e58a3549af84b8ac2634a4b
+      internalID: 1091236057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056fce5a9526f274c8239270f3deaf3a
+      internalID: -196407078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d197cb0ea1bac41b4532b46f6ea981
+      internalID: -1719444150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b951a3d10d473468df2f9076d2177f
+      internalID: 397465899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56fb82a663bd11448e5394b12557153
+      internalID: -1582721136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c56216c3a0ea49be688ba985cdc27
+      internalID: 1381557573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62f977e3f698d4092c60845ee7a4cb
+      internalID: 872981248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c60bb412f9c349ad79dcc32b3e6f2
+      internalID: 588572654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f2d2120259c24da7a524eaf0504d6
+      internalID: 515683007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78466ab3e75d145b10ca4e92a5c5e4
+      internalID: -491124210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 310.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b71a6e24c609428c1b3478fda7baf
+      internalID: 2000042935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e66c5620a761284eb2d8c884a34ed73
+      internalID: -934794318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ef28d8bb7629488065e12a061cfed
+      internalID: 917905409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43e05d6ab5b4f34ba41497317920c6f
+      internalID: 1478537032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebfb204254d91e4eb17c5808b14cde5
+      internalID: 67450916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e69f6b206a2cb459c68195e8ae7b3a
+      internalID: 2034998699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1434934b77de4d24a98a81699df0490d
+      internalID: 1751775754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a273b02678af4cb20e435245bce78
+      internalID: -680457456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5e3066f1e5ef346bb9f2cf012803e1
+      internalID: 1855964102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54fd6ef18577d848b31c91b1f6d07cc
+      internalID: 695662805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fc29639b112347ae0f38705faec58
+      internalID: -973358675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251203160384c9458cafd4a0f07ee6b
+      internalID: 663809623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4876c9ebebcb9f94ba95edfc36c70e47
+      internalID: -922474662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105e828eb7e12c478282ad162b11360
+      internalID: 585104757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 259.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e02d6dc963234648823632e3712a696
+      internalID: -1470811283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4e960661e05e8459dc9a957eae05b4
+      internalID: -1310364494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05662699fd899614e814d5196e69dd5c
+      internalID: 2057441659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888fc4395e818f459038ff210540ebb
+      internalID: -1596040360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 208
+        width: 59
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707bc5c8ee19f4f4a8ca94f5030797f3
+      internalID: 1068399603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08049fc589e3cf4fb87b67258883b3d
+      internalID: -1490813932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ecbc58b0a562e48a3e285c810b0a86
+      internalID: 1577270968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72315bb7a4a0e545bfd994d600d40c7
+      internalID: 696203685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d81e04fdfb02348b1a836fecee1b06
+      internalID: -1698109622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45dfd745eca2b4ea9f52f4f130155d
+      internalID: -208696375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e62ce8b5556d7945915a4df53b7338c
+      internalID: -667018672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfaacfe41514d848bb85e31b63e9c2f
+      internalID: -2016021144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc730c262decbf4f8e54ec48f7cbc34
+      internalID: -579580062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500b088cf63f00468abe54f723cf77b
+      internalID: -1832768004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 208.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b778cbf0c639594ea12e7ec5864bdbb
+      internalID: 1611242588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c35328cbcbd4f4cb6f6f3353ae8a34
+      internalID: -1635583443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526faa501d420b14d86e782b10874d23
+      internalID: 705335619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adceed613582efe419096bf546c566d7
+      internalID: 366461563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b7b4e57b9a784b9da0c60fa0d4e7f
+      internalID: -1430903617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d606b0cafd0a445be402774e88420c
+      internalID: 1197228335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc698fc4127291a4c86ee8cbe6915038
+      internalID: 390449937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e206295cbd2d7948ad123972c8d7138
+      internalID: 440430982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211eb7469f4064845a46e7d0d1571258
+      internalID: -651571627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa806d3eb6eb89b46ae39f5543691ebf
+      internalID: -952164128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd54ae549cc104e985f3215d980f24
+      internalID: -291498210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16822785f838446a1eb23baedf0fb5
+      internalID: -1477138818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47b84cafdbb914cbf3af619f1e11c4
+      internalID: -1892819802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bcd81c55067b540ae27488fea2e1bb
+      internalID: 1323941159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 157.2857
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da77c12fe1a07e148ace86769d822ddd
+      internalID: 2143013471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aedc7a0af21fa49850a697e8c4b26b
+      internalID: -1065147793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953d71a82046ae408f614aacde671dc
+      internalID: -1715951082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c27e04a5c93b34b92de67f33dd437b
+      internalID: -1686174328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe3ef810b656104282285ec774778fe
+      internalID: -1513483398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8841941615272e4eb2d01c9c431604c
+      internalID: 1152266797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e807257ae75b43adf8ed77a8439b6
+      internalID: -82202970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88996ee1a619d30458900f91a8588a60
+      internalID: -15279009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7461f8626483cac469ad154cc3338e66
+      internalID: 2032264451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b853383181bc0d4da7b1e258ac2a277
+      internalID: -1393001508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974f77e7800b2dd48901a73baf639dfd
+      internalID: 2007256942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6b4c86f3908043bf361e05dac36e0
+      internalID: 1626850720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2cca332e770394e89064c95871b4f0
+      internalID: -1674589278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf279247497904dadbdb702c988bd1
+      internalID: 1721953390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 106.28571
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca23038b19b4a4299ad3fff9252a0e
+      internalID: -1213914113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41f25a9928c2704ca71d3c2498c58c9
+      internalID: 1766054865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdea7cfc01a6664bb481b2d892e0015
+      internalID: -1643750290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db0c83cd0537b348b1c64b6484c6be2
+      internalID: -867989684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b9b11ff1273b448545c575f476e26
+      internalID: 869490850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ec68017fa7274ea278c7d6ffbd9cd
+      internalID: 910065153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 69
+        width: 26
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f30e19d35a27a84ba27a3eef66c6405
+      internalID: -1826554957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 69
+        width: 30
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736a10c72821344ca6dd5a4c09bb82d
+      internalID: -255614900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93beca70759fe61429db9abcfe999301
+      internalID: -1227571882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69563ff7e71acf4bbd82b6b3b2f35db
+      internalID: 489162859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d132c4e0e741d64f90d972062ce3813
+      internalID: 619331648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331a66f41969d54a9e00e8f529fe540
+      internalID: 1584117453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1be97790d10af4492f12e9f4950a5e
+      internalID: 1237397049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf878537fed1474e94d6e72ad3ac25e
+      internalID: -526127181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 55.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2d9178cbc39f42b67148009f943ba
+      internalID: -978386991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 68
+        width: 29
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d38fe211286848abdb1bba5c083fb
+      internalID: 1526969579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8ff22179fb5804cafb0e71512f9a87
+      internalID: 392012755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 59
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c9115b6f71a4409ef459bbcec2807
+      internalID: 618221015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f5262cc4f54b47b921bc9c65b9a3b
+      internalID: -184490695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 68
+        width: 29
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc631c134506044e9b1a928f323103b
+      internalID: 1340765702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1065413dd3309d540b8ffa7885fd669b
+      internalID: -909510850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 67
+        width: 32
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a0ba6f4bdb2e469de05170d829443
+      internalID: 842410498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4f848b9592214c92ac5e043b58ebd
+      internalID: -1812468382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 68
+        width: 18
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eef035243a70443af79921be814fcb
+      internalID: -123695021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 68
+        width: 27
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae09f1e445c614c808a9309ffde2aa
+      internalID: 279976238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ebffd27a468b7459ec56c0a51c54ab
+      internalID: -11901731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe088d48b57363247aa1baff0f295516
+      internalID: 1595917375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b60968f316f14a86c85772ec82ca7
+      internalID: 1658841673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 223-2238372_-img-mario-throwing-a-fireball-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 4.285713
+        width: 58.57143
+        height: 51.714287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a918bb24dd32d4b98bc60b8be6b4f7
+      internalID: -917732951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      223-2238372_-img-mario-throwing-a-fireball-sprite_36: -208696375
+      223-2238372_-img-mario-throwing-a-fireball-sprite_63: 2032264451
+      223-2238372_-img-mario-throwing-a-fireball-sprite_31: 1068399603
+      223-2238372_-img-mario-throwing-a-fireball-sprite_35: -1698109622
+      223-2238372_-img-mario-throwing-a-fireball-sprite_88: 1340765702
+      223-2238372_-img-mario-throwing-a-fireball-sprite_25: -922474662
+      223-2238372_-img-mario-throwing-a-fireball-sprite_81: 1237397049
+      223-2238372_-img-mario-throwing-a-fireball-sprite_64: -1393001508
+      223-2238372_-img-mario-throwing-a-fireball-sprite_5: -1719444150
+      223-2238372_-img-mario-throwing-a-fireball-sprite_62: -15279009
+      223-2238372_-img-mario-throwing-a-fireball-sprite_20: -680457456
+      223-2238372_-img-mario-throwing-a-fireball-sprite_56: -1065147793
+      223-2238372_-img-mario-throwing-a-fireball-sprite_49: -651571627
+      223-2238372_-img-mario-throwing-a-fireball-sprite_6: 397465899
+      223-2238372_-img-mario-throwing-a-fireball-sprite_15: 917905409
+      223-2238372_-img-mario-throwing-a-fireball-sprite_71: -1643750290
+      223-2238372_-img-mario-throwing-a-fireball-sprite_22: 695662805
+      223-2238372_-img-mario-throwing-a-fireball-sprite_89: -909510850
+      223-2238372_-img-mario-throwing-a-fireball-sprite_75: -1826554957
+      223-2238372_-img-mario-throwing-a-fireball-sprite_93: 279976238
+      223-2238372_-img-mario-throwing-a-fireball-sprite_58: -1686174328
+      223-2238372_-img-mario-throwing-a-fireball-sprite_86: 618221015
+      223-2238372_-img-mario-throwing-a-fireball-sprite_43: 705335619
+      223-2238372_-img-mario-throwing-a-fireball-sprite_3: 1091236057
+      223-2238372_-img-mario-throwing-a-fireball-sprite_38: -2016021144
+      223-2238372_-img-mario-throwing-a-fireball-sprite_79: 619331648
+      223-2238372_-img-mario-throwing-a-fireball-sprite_55: 2143013471
+      223-2238372_-img-mario-throwing-a-fireball-sprite_94: -11901731
+      223-2238372_-img-mario-throwing-a-fireball-sprite_44: 366461563
+      223-2238372_-img-mario-throwing-a-fireball-sprite_66: 1626850720
+      223-2238372_-img-mario-throwing-a-fireball-sprite_24: 663809623
+      223-2238372_-img-mario-throwing-a-fireball-sprite_9: 872981248
+      223-2238372_-img-mario-throwing-a-fireball-sprite_90: 842410498
+      223-2238372_-img-mario-throwing-a-fireball-sprite_18: 2034998699
+      223-2238372_-img-mario-throwing-a-fireball-sprite_78: 489162859
+      223-2238372_-img-mario-throwing-a-fireball-sprite_7: -1582721136
+      223-2238372_-img-mario-throwing-a-fireball-sprite_45: -1430903617
+      223-2238372_-img-mario-throwing-a-fireball-sprite_12: -491124210
+      223-2238372_-img-mario-throwing-a-fireball-sprite_13: 2000042935
+      223-2238372_-img-mario-throwing-a-fireball-sprite_69: -1213914113
+      223-2238372_-img-mario-throwing-a-fireball-sprite_72: -867989684
+      223-2238372_-img-mario-throwing-a-fireball-sprite_96: 1658841673
+      223-2238372_-img-mario-throwing-a-fireball-sprite_8: 1381557573
+      223-2238372_-img-mario-throwing-a-fireball-sprite_14: -934794318
+      223-2238372_-img-mario-throwing-a-fireball-sprite_16: 1478537032
+      223-2238372_-img-mario-throwing-a-fireball-sprite_21: 1855964102
+      223-2238372_-img-mario-throwing-a-fireball-sprite_0: -1641140773
+      223-2238372_-img-mario-throwing-a-fireball-sprite_61: -82202970
+      223-2238372_-img-mario-throwing-a-fireball-sprite_4: -196407078
+      223-2238372_-img-mario-throwing-a-fireball-sprite_51: -291498210
+      223-2238372_-img-mario-throwing-a-fireball-sprite_11: 515683007
+      223-2238372_-img-mario-throwing-a-fireball-sprite_52: -1477138818
+      223-2238372_-img-mario-throwing-a-fireball-sprite_50: -952164128
+      223-2238372_-img-mario-throwing-a-fireball-sprite_83: -978386991
+      223-2238372_-img-mario-throwing-a-fireball-sprite_73: 869490850
+      223-2238372_-img-mario-throwing-a-fireball-sprite_70: 1766054865
+      223-2238372_-img-mario-throwing-a-fireball-sprite_76: -255614900
+      223-2238372_-img-mario-throwing-a-fireball-sprite_74: 910065153
+      223-2238372_-img-mario-throwing-a-fireball-sprite_59: -1513483398
+      223-2238372_-img-mario-throwing-a-fireball-sprite_30: -1596040360
+      223-2238372_-img-mario-throwing-a-fireball-sprite_28: -1310364494
+      223-2238372_-img-mario-throwing-a-fireball-sprite_53: -1892819802
+      223-2238372_-img-mario-throwing-a-fireball-sprite_91: -1812468382
+      223-2238372_-img-mario-throwing-a-fireball-sprite_85: 392012755
+      223-2238372_-img-mario-throwing-a-fireball-sprite_39: -579580062
+      223-2238372_-img-mario-throwing-a-fireball-sprite_54: 1323941159
+      223-2238372_-img-mario-throwing-a-fireball-sprite_41: 1611242588
+      223-2238372_-img-mario-throwing-a-fireball-sprite_40: -1832768004
+      223-2238372_-img-mario-throwing-a-fireball-sprite_1: -1776368734
+      223-2238372_-img-mario-throwing-a-fireball-sprite_27: -1470811283
+      223-2238372_-img-mario-throwing-a-fireball-sprite_48: 440430982
+      223-2238372_-img-mario-throwing-a-fireball-sprite_19: 1751775754
+      223-2238372_-img-mario-throwing-a-fireball-sprite_10: 588572654
+      223-2238372_-img-mario-throwing-a-fireball-sprite_60: 1152266797
+      223-2238372_-img-mario-throwing-a-fireball-sprite_82: -526127181
+      223-2238372_-img-mario-throwing-a-fireball-sprite_95: 1595917375
+      223-2238372_-img-mario-throwing-a-fireball-sprite_26: 585104757
+      223-2238372_-img-mario-throwing-a-fireball-sprite_29: 2057441659
+      223-2238372_-img-mario-throwing-a-fireball-sprite_46: 1197228335
+      223-2238372_-img-mario-throwing-a-fireball-sprite_68: 1721953390
+      223-2238372_-img-mario-throwing-a-fireball-sprite_80: 1584117453
+      223-2238372_-img-mario-throwing-a-fireball-sprite_33: 1577270968
+      223-2238372_-img-mario-throwing-a-fireball-sprite_42: -1635583443
+      223-2238372_-img-mario-throwing-a-fireball-sprite_84: 1526969579
+      223-2238372_-img-mario-throwing-a-fireball-sprite_87: -184490695
+      223-2238372_-img-mario-throwing-a-fireball-sprite_47: 390449937
+      223-2238372_-img-mario-throwing-a-fireball-sprite_67: -1674589278
+      223-2238372_-img-mario-throwing-a-fireball-sprite_97: -917732951
+      223-2238372_-img-mario-throwing-a-fireball-sprite_57: -1715951082
+      223-2238372_-img-mario-throwing-a-fireball-sprite_65: 2007256942
+      223-2238372_-img-mario-throwing-a-fireball-sprite_23: -973358675
+      223-2238372_-img-mario-throwing-a-fireball-sprite_37: -667018672
+      223-2238372_-img-mario-throwing-a-fireball-sprite_92: -123695021
+      223-2238372_-img-mario-throwing-a-fireball-sprite_34: 696203685
+      223-2238372_-img-mario-throwing-a-fireball-sprite_2: 84897802
+      223-2238372_-img-mario-throwing-a-fireball-sprite_32: -1490813932
+      223-2238372_-img-mario-throwing-a-fireball-sprite_17: 67450916
+      223-2238372_-img-mario-throwing-a-fireball-sprite_77: -1227571882
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

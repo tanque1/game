@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 2a800acb7065d944b96b2bb5321a7439
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.52, y: 0.68}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e44ad2aea93fd4081675d4afcf74ca
+      internalID: -176780480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb2f7904addc941b1d4956a8d9672d
+      internalID: 917717276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3c52e07ae60d42ac52bf613ed8fd1
+      internalID: 971239869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a79b2258cb4864ca7cef2f9c02068d
+      internalID: 1300600010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ab61b5a72c6ae4cb20a7d529d0cba0
+      internalID: -363216091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84050a0bbc086e94798da21dc3a3352d
+      internalID: -1969232148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 688
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8347a94ce84c2cc4abe2978fcce1eb43
+      internalID: 913931352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea46c469373e3c642877d707c81c9e4b
+      internalID: -1555911157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256e1049ab1cbe47a50b6784a2ea7f2
+      internalID: -1287323084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 688.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5bfbc8b46a5d49aae733c1f67af11
+      internalID: 1702707002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659b894b81e90b47a2f34dab4a58a1a
+      internalID: -1815703258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 603
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f61ba81a5a5bf4fb2186bb15332953
+      internalID: -1281039916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 603
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1b6d5924368a48ac8cec663aef800
+      internalID: 421518658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 603
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7483f07536fa94b9f3fe0a1a6e9c54
+      internalID: 478124352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 603
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2756d22900c3844cbd83d0ec11e8845
+      internalID: -1232054933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 603
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae7c5c9c94bd343add9f1ad7bb7cbb
+      internalID: 794113781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 601
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959eab45bd17a6408e6e976b2e50f44
+      internalID: -369875449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 603
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eece3eba38b58643a414adf3f3f4193
+      internalID: -1533032741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 616
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3d73e44506f34597446f24a878122
+      internalID: 1471523690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 603.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d37f21581ece439f1bc57e7d587b3
+      internalID: -422124218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d9b318609f6341a19c99d1fd78c53
+      internalID: 1309978595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 544
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74c5d1ba7e049f448c51f4b9892c128
+      internalID: 456000437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 546
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d6258140d4ec439412385b7cfce53
+      internalID: -1647831320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 518
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ada052dc409a541ab0eef35f534bd4
+      internalID: -277771299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 518
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b5caafb2b5fc41a84a3d68f4236e9
+      internalID: -2095007386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 518
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d74ab499467394aa7ad505fe572d3e
+      internalID: -1026608777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 518
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba102ea4ef52e2d4d8c7f631e54630ee
+      internalID: -169492978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 518.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b080e3d1487844b82ac68838c3e69
+      internalID: -1855055250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54750b4348bfd44cbb7f2d761dddfbb
+      internalID: 892668704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e26f1882d6e8344b8394b115f03fbc
+      internalID: 533535739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb09153c85bc3c4a8c0eee9b678e24d
+      internalID: 387479096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c86a12a0492e428b18dfd228c4fea
+      internalID: 508672915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f99340d7394d478ef1063c2f8781f
+      internalID: -485998648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f12260b830ab74c9ce77c819c2838b
+      internalID: 174897709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1a4c95d9182147b68fc724959afac
+      internalID: -2046304247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9a242e06fde444b58222cd959dd06
+      internalID: 1666343619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c143e74dd7da945b7cb2b4bdee1abd
+      internalID: -1268480938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_37
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 433.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcead06bca67904780ad090837332b2
+      internalID: 408193541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7833cb656395a5b4ebde6027c8de9ed2
+      internalID: -859830457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56062b9333099a4cb32856634713e7f
+      internalID: 997447781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8085db07b7064b8b4b4086ac7b972
+      internalID: 590206405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b3a677188b67747ba8ee4ec94126fd
+      internalID: -508761991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fce721adaa984d45ba52ac9b31eb9a9
+      internalID: 1813034138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cafd447ed5ac24bb7a83a8d9f3a151
+      internalID: 1182444966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_44
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5adf5ca126cd4f8ebe2d91d94bbac
+      internalID: 183856077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_45
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66030abba7fe69429a9ea1aec54bb40
+      internalID: 27696875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec3026c6e829342933340770641145
+      internalID: 875197097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_47
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 348.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c67a8c8ac997a48b13f11aeb770364
+      internalID: -886750334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5de1b135445dc4a84f7b9b58c7ea19
+      internalID: -1346297442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277cb0c40bf193b419b4c726318d8d9e
+      internalID: -1765054764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e6db82dbc0194fa222c2c488d006b
+      internalID: -2057688792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e4028a870d5674595f41df9f9f529f
+      internalID: 873585594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b78d52b19f4144b8e71d4b0fd4e72
+      internalID: -732378562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e399667f92d4640a88691bc23d9b1b
+      internalID: -919114621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fef627aa1a68f64593ebb6bd96d6c06
+      internalID: -158864081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_55
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a32c3626cdc6441843041a9ddd8749
+      internalID: -921533828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579fffbb2c286bb4f8aaf1eec8c25c62
+      internalID: -1667593036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_57
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 263.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7c14b0d476894b8f935861dfe9fd1
+      internalID: -713073970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b3ebde1fae7f34abd3afb732bd1ebe
+      internalID: -914990628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c9753d5965bc74ea65f998d9db3ecc
+      internalID: 1492940355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d54ba12a7b2caa408d9de80a77f3b25
+      internalID: 1958846248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adcf79449b56d04e934a0f3c1a46edb
+      internalID: 933840346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_62
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8767329e9eba6c4fab20542c1348689
+      internalID: -1724378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f37d31c24dd4824f904c3b3d6b6bc13
+      internalID: 2059022085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_64
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2695e2a6f65e741419105cc043f98f0c
+      internalID: -1940000588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_65
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 178.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ada9f8db92347489a09b57e02d70fc
+      internalID: -913622936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47204411e9f01147a34527c9eefeb7e
+      internalID: -1397945900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d185515711a7c4c9794577898c33cb
+      internalID: -811270652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef174ced70b0e498e33dde61f75792
+      internalID: -894231434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78283c154e9cbc943b88b4b794cd79c7
+      internalID: 1981510857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca7b7f8687333842a0400b6e5a67209
+      internalID: -867364747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b547c7aa274a341942679843006477
+      internalID: -888333890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_72
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91419c4da667945bb02b62fd239572
+      internalID: 1439571917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_73
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 93.1
+        width: 84
+        height: 85.9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c23ef196d87e04089aaca3e5567328
+      internalID: -1992483473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 835
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d5fd015af935498a68a1e677da93a
+      internalID: -541347690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_68: -894231434
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_39: 997447781
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_70: -867364747
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_30: 387479096
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_1: 917717276
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_53: -919114621
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_69: 1981510857
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_67: -811270652
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_9: 1702707002
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_38: -859830457
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_45: 27696875
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_21: 456000437
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_26: -169492978
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_7: -1555911157
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_47: -886750334
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_15: 794113781
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_52: -732378562
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_46: 875197097
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_8: -1287323084
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_0: -176780480
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_5: -1969232148
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_62: -1724378282
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_2: 971239869
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_23: -277771299
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_17: -1533032741
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_18: 1471523690
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_41: -508761991
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_27: -1855055250
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_49: -1765054764
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_72: 1439571917
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_22: -1647831320
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_34: -2046304247
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_50: -2057688792
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_33: 174897709
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_44: 183856077
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_65: -913622936
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_4: -363216091
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_29: 533535739
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_51: 873585594
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_48: -1346297442
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_37: 408193541
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_35: 1666343619
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_10: -1815703258
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_25: -1026608777
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_60: 1958846248
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_57: -713073970
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_24: -2095007386
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_36: -1268480938
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_11: -1281039916
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_59: 1492940355
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_16: -369875449
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_64: -1940000588
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_61: 933840346
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_19: -422124218
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_12: 421518658
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_42: 1813034138
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_43: 1182444966
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_28: 892668704
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_54: -158864081
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_74: -541347690
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_58: -914990628
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_71: -888333890
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_6: 913931352
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_32: -485998648
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_66: -1397945900
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_3: 1300600010
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_73: -1992483473
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_31: 508672915
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_13: 478124352
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_20: 1309978595
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_55: -921533828
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_14: -1232054933
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_40: 590206405
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_63: 2059022085
+      yoshi-clipart-koopa-troopa-koopa-troopa-sprites-11563306755z9nw9yvrm0_56: -1667593036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

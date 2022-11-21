@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 5498893b2d21e8048954630843fbcb35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 376
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1886265598bb8784aa2cd3735318ec3f
+      internalID: -1548348749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 377
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162104de5ec70ad43880342c1a296ddc
+      internalID: -378547890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 377
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0939470889a8849b64672459e2217c
+      internalID: 947518196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 377
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c91d0a12d5da8418216ab714a9755b
+      internalID: 2085950482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 377
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf598d3dfd97949b246d7217ac1727
+      internalID: 823971774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 376
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa849206de3c3c4b9c54c917db3a217
+      internalID: 1673065308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 377
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0dec0fa2c33149b10da8f536c5e8c
+      internalID: -797717946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 376
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57c418d4ab5a943b8c5bd488918ac8
+      internalID: 1177113134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 377
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0e1c8af3f6364682dd0d845563181
+      internalID: 1930495667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 299
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b5d66ceaaae54483ca0324c1a4de9
+      internalID: -1304999308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 298
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8aa1775d52d714a8e07ca3c010d46c
+      internalID: -1972262576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 298
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c6a7b2a909ff468cd128a4ddc73d8
+      internalID: 1974495790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 298
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e54ba3d5ee140f41b683c7167c51776
+      internalID: -103389330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 298
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c905bfc78aaa84ea6a59e29baa1bc4
+      internalID: 626963304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 298
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192c493c8b3d7548a36c476b6c9bab4
+      internalID: 673831898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_15
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 298
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54969b7960c5b44e9190c0d9f5e88e6
+      internalID: 2010620064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 298
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547baedec7da164cb0df045c996ea0c
+      internalID: -1759317731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 298
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453af3ef677c874a9d05fc384dcf407
+      internalID: -321450962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac071d0a73333a41b08a101557ca70b
+      internalID: -813869714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 220
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a319271be8dd04099be9244a2893a2
+      internalID: 1551732096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9a140b1a5e56429d491b3f8e9a776
+      internalID: 1065346946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 220
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158991a1df9744d47964b43731dd3cff
+      internalID: 72592280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 220
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce3df1a022c034bafbc316a59b24a2
+      internalID: 661814787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 220
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970b0580b3a18a46bef344e03e0cad7
+      internalID: -312462077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 220
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d83da1660605da4ebc41e7196fb4e76
+      internalID: 225855788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 220
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320db373bb1bdf24499713590a120d9b
+      internalID: 1467806168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 220
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b3121507fbc864eb3a5b0588c29312
+      internalID: -1271843167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 220
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55220c95528454cadc78f790e53aba
+      internalID: 1867980279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f30d20bb383cc4f9a0a30392acf8b2
+      internalID: 2117478517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_29
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 142
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca88f730bb89d043a7b09d5b6f090e6
+      internalID: -506131823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae2fd4f82ba34f42a0dda7a24685755
+      internalID: 839122516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 142
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c2c8891588714090a4c93fd108c89
+      internalID: 2115970842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 142
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0f223cce367e42907f689b2bf6fcd
+      internalID: 414127338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da15573a2c9af6649ad22527e812917a
+      internalID: 775212384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_34
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06397619a33fc35489081de0f0b03ceb
+      internalID: -1612598515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 142
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3e851ad2e32e468d62a4094687b7f
+      internalID: 298992912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 142
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af733a379966d94ea0830cc5ff58099
+      internalID: 1037549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 142
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defacdf4b4ec21445b145ac17ed6b04b
+      internalID: -574137148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 64
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e994cb59183d2469ef42a6f489cf68
+      internalID: 616902144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da95756017ff842b7936213470fb6b
+      internalID: -1761061093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17b75812bf3a34bbe203e34fad66f4
+      internalID: 710829806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 64
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5765a56dabdca8c4ca33f4ecce8d9f0e
+      internalID: 231467115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 64
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54298248f7d76ff4a87bb0bca3215d48
+      internalID: 1886333894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_43
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 64
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67c89897e845d468349e0be604a26e
+      internalID: 1459324129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 64
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7ce6aba196c944bdfb34227c910bb
+      internalID: 1634171570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e2d16058b0d34f89d02fffa2b51f2
+      internalID: 1034839593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 194-1947476_mario-blocks-hd-png-download_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 64
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9211744e3f1b5941ba11b1b4d48672e
+      internalID: 211743755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      194-1947476_mario-blocks-hd-png-download_18: -813869714
+      194-1947476_mario-blocks-hd-png-download_8: 1930495667
+      194-1947476_mario-blocks-hd-png-download_15: 2010620064
+      194-1947476_mario-blocks-hd-png-download_26: -1271843167
+      194-1947476_mario-blocks-hd-png-download_14: 673831898
+      194-1947476_mario-blocks-hd-png-download_40: 710829806
+      194-1947476_mario-blocks-hd-png-download_33: 775212384
+      194-1947476_mario-blocks-hd-png-download_29: -506131823
+      194-1947476_mario-blocks-hd-png-download_6: -797717946
+      194-1947476_mario-blocks-hd-png-download_17: -321450962
+      194-1947476_mario-blocks-hd-png-download_32: 414127338
+      194-1947476_mario-blocks-hd-png-download_20: 1065346946
+      194-1947476_mario-blocks-hd-png-download_36: 1037549401
+      194-1947476_mario-blocks-hd-png-download_10: -1972262576
+      194-1947476_mario-blocks-hd-png-download_22: 661814787
+      194-1947476_mario-blocks-hd-png-download_16: -1759317731
+      194-1947476_mario-blocks-hd-png-download_31: 2115970842
+      194-1947476_mario-blocks-hd-png-download_12: -103389330
+      194-1947476_mario-blocks-hd-png-download_43: 1459324129
+      194-1947476_mario-blocks-hd-png-download_34: -1612598515
+      194-1947476_mario-blocks-hd-png-download_27: 1867980279
+      194-1947476_mario-blocks-hd-png-download_2: 947518196
+      194-1947476_mario-blocks-hd-png-download_5: 1673065308
+      194-1947476_mario-blocks-hd-png-download_9: -1304999308
+      194-1947476_mario-blocks-hd-png-download_1: -378547890
+      194-1947476_mario-blocks-hd-png-download_30: 839122516
+      194-1947476_mario-blocks-hd-png-download_13: 626963304
+      194-1947476_mario-blocks-hd-png-download_24: 225855788
+      194-1947476_mario-blocks-hd-png-download_35: 298992912
+      194-1947476_mario-blocks-hd-png-download_4: 823971774
+      194-1947476_mario-blocks-hd-png-download_45: 1034839593
+      194-1947476_mario-blocks-hd-png-download_23: -312462077
+      194-1947476_mario-blocks-hd-png-download_21: 72592280
+      194-1947476_mario-blocks-hd-png-download_38: 616902144
+      194-1947476_mario-blocks-hd-png-download_46: 211743755
+      194-1947476_mario-blocks-hd-png-download_41: 231467115
+      194-1947476_mario-blocks-hd-png-download_42: 1886333894
+      194-1947476_mario-blocks-hd-png-download_19: 1551732096
+      194-1947476_mario-blocks-hd-png-download_44: 1634171570
+      194-1947476_mario-blocks-hd-png-download_37: -574137148
+      194-1947476_mario-blocks-hd-png-download_11: 1974495790
+      194-1947476_mario-blocks-hd-png-download_3: 2085950482
+      194-1947476_mario-blocks-hd-png-download_39: -1761061093
+      194-1947476_mario-blocks-hd-png-download_7: 1177113134
+      194-1947476_mario-blocks-hd-png-download_28: 2117478517
+      194-1947476_mario-blocks-hd-png-download_25: 1467806168
+      194-1947476_mario-blocks-hd-png-download_0: -1548348749
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
