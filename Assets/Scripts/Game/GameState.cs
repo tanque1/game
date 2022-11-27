@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GameState
+public class GameState: MonoBehaviour
 {
     public static int Lives { get; set; }
 

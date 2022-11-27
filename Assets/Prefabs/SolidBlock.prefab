@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4893563596456861587
 Transform:
   m_ObjectHideFlags: 0
@@ -249,7 +249,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3214395432411865788
 Transform:
   m_ObjectHideFlags: 0
@@ -286,7 +286,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4257114839722923040
 Transform:
   m_ObjectHideFlags: 0
@@ -392,7 +392,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &931337492026336984
 Transform:
   m_ObjectHideFlags: 0
@@ -583,10 +583,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockAnimator: {fileID: 0}
-  blockHitSound: {fileID: 0}
+  blockHitSound: {fileID: 8955317087710104543}
   blockTrigger: {fileID: 0}
   triggerObject: {fileID: 0}
-  colliderObject: {fileID: 0}
+  colliderObject: {fileID: 6183947610774300222}
   spriteRenderer: {fileID: 4939106031090116885}
   debris: {fileID: 2422365130676709194}
   debrisObjects:
@@ -598,6 +598,7 @@ MonoBehaviour:
   coinCollectAudio: {fileID: 7957378178710247009}
   blockType: 3
   coin: {fileID: 0}
+  blockBrick: {fileID: 0}
 --- !u!1 &5514639534705918559
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,7 +802,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2932412039680125351
 Transform:
   m_ObjectHideFlags: 0

@@ -40,6 +40,11 @@ public class EventManager
 
     public static Action LivesUpdatedEvent;
 
-    
+    public static Action StartButtonClicked;
 
+    public static Action RestartCurrentLevelEvent;
+
+    public static Action FreezeCameraEvent;
+
+    public static Action StopPlayingAllAudioEvent;
 }

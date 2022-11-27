@@ -1,6 +1,6 @@
 public static class Tags
 {
-    public const string UNTAGGED = "UNtagged";
+    public const string UNTAGGED = "Untagged";
 
     public const string MAIN_CAMERA = "MainCamera";
 

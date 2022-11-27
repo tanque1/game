@@ -151,7 +151,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.008907318, y: -0.0044536293}
+  m_Offset: {x: 0.008907318, y: -0.008543491}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -162,7 +162,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.71496594, y: 0.714966}
+  m_Size: {x: 0.71496594, y: 0.6577078}
   m_EdgeRadius: 0
 --- !u!1 &8638286813147435520
 GameObject:
@@ -192,8 +192,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8638286813147435520}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0036613, y: 0.0022297, z: 0}
-  m_LocalScale: {x: 1.6428897, y: 1.6428897, z: 1.6428897}
+  m_LocalPosition: {x: -0.0067212, y: 0.0040932, z: 0}
+  m_LocalScale: {x: 2.1801147, y: 2.1801147, z: 2.1801147}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6982632086592499955}
@@ -387,7 +387,7 @@ MonoBehaviour:
   blockTrigger: {fileID: 2695940158597558506}
   triggerObject: {fileID: 678544757355186255}
   colliderObject: {fileID: 7642482167810725603}
-  itemType: 0
+  itemType: 1
   fireFlower: {fileID: 3829083811867709274}
   redMushroom: {fileID: 1304046099470991095}
   oneUpMushroom: {fileID: 5921811382513980014}

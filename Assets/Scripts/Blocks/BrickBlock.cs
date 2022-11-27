@@ -22,15 +22,18 @@ public class BrickBlock : Block, IBreakable
     [SerializeField]
     BlockType blockType;
 
-    [SerializeField] GameObject coin = null;
+    [SerializeField]
+    GameObject coin = null;
 
+    [SerializeField]
+    GameObject blockBrick = null;
 
     bool hit;
 
     int numCoins;
 
-
-    protected override void Awake(){
+    protected override void Awake()
+    {
         base.Awake();
         switch (blockType)
         {
@@ -49,19 +52,28 @@ public class BrickBlock : Block, IBreakable
         }
     }
 
-    public override void HandlePlayerHitBlock(){
-        if(blockType == BlockType.EMPTY){
+    public override void HandlePlayerHitBlock()
+    {
+        if (blockType == BlockType.EMPTY)
+        {
             HandleEmptyBlockHit();
         }
-        else if(blockType == BlockType.ONE_COIN || blockType == BlockType.MANY_COINS){
+        else if (
+            blockType == BlockType.ONE_COIN || blockType == BlockType.MANY_COINS
+        )
+        {
             HandleCoinBlockHit();
         }
     }
 
-    void HandleEmptyBlockHit(){
-        if(hit) return;
+    void HandleEmptyBlockHit()
+    {
+        if (hit) return;
 
-        coin.SetActive(false);
+        if (coin)
+        {
+            coin.SetActive(false);
+        }
         hit = true;
         blockBreakAudio.Play();
         colliderObject.SetActive(false);
@@ -69,44 +81,53 @@ public class BrickBlock : Block, IBreakable
         debris.SetActive(true);
         spriteRenderer.enabled = false;
         foreach (Rigidbody2D rigidbody in debrisObjects)
-        {   
+        {
             rigidbody.AddRelativeForce(Random.onUnitSphere * 200);
         }
+        Invoke("HandleDestroy", 0.5f);
     }
 
-    void HandleCoinBlockHit(){
-            Debug.Log(numCoins);
+    void HandleDestroy()
+    {
+        Destroy (blockBrick);
+    }
+
+    void HandleCoinBlockHit()
+    {
+        if (hit) return;
 
         coinCollectAudio.Play();
         GameState.Coins++;
         EventManager.CoinPickupEvent?.Invoke();
         blockAnimator.Play(Animations.HIT);
         numCoins--;
-        Invoke("SetIdle",0.1f);
 
+        Invoke("SetIdle", 0.2f);
     }
 
-
-    public void SetIdle(){
-        if(numCoins <= 0){
-            Debug.Log("end");
+    public void SetIdle()
+    {
+        if (numCoins == 0)
+        {
+            hit = true;
             blockAnimator.Play(Animations.FINISHED);
             triggerObject.SetActive(false);
             colliderObject.SetActive(true);
         }
-        else {
+        else
+        {
             blockAnimator.Play(Animations.IDLE);
         }
     }
 
-
     public void Break()
     {
-        if(blockType == BlockType.SOLID && !GameState.IsInvincible ){
+        if (blockType == BlockType.SOLID && !GameState.IsInvincible)
+        {
             return;
         }
 
-        HandleEmptyBlockHit(); 
+        HandleEmptyBlockHit();
     }
 }
 

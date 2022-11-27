@@ -37,6 +37,7 @@ public abstract class Item : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+
         if (collision.tag.Equals(Tags.PLAYER))
         {
             DisableCollider();
@@ -50,7 +51,7 @@ public abstract class Item : MonoBehaviour
                 itemPickupSound?.Play();
             }
 
-            Destroy(gameObject, 2.0f);
+            Destroy(gameObject, 1.0f);
         }
     }
 }

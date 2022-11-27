@@ -23,7 +23,8 @@ public class PlayerManager : MonoBehaviour
     [SerializeField]
     Transform spawnPoint = null;
 
-    [SerializeField] MegaMarioController megaMarioController = null;
+    [SerializeField]
+    MegaMarioController megaMarioController = null;
 
     bool canMarioMove = true;
 
@@ -42,8 +43,8 @@ public class PlayerManager : MonoBehaviour
         playerCollisionController.MarioIsCollidingWithObject +=
             HandleMarioCollidingWithObject;
 
-        // EventManager.JumpedOnFlagEvent += HandleMarioJumpedOnFlag;
-        // EventManger.FinishedLevelEvent += HandleMarioFinishedLevel;
+        EventManager.JumpedOnFlagEvent += HandleMarioJumpedOnFlag;
+        EventManager.FinishedLevelEvent += HandleMarioFinishedLevel;
         EventManager.MoveUpClicked += HandleMarioMoveUp;
         EventManager.MoveDownClicked += HandleMarioMoveDown;
         EventManager.MoveRightClicked += HandleMarioMoveRight;
@@ -62,8 +63,8 @@ public class PlayerManager : MonoBehaviour
         playerCollisionController.MarioIsCollidingWithObject -=
             HandleMarioCollidingWithObject;
 
-        // EventManager.JumpedOnFlagEvent -= HandleMarioJumpedOnFlag;
-        // EventManger.FinishedLevelEvent -= HandleMarioFinishedLevel;
+        EventManager.JumpedOnFlagEvent -= HandleMarioJumpedOnFlag;
+        EventManager.FinishedLevelEvent -= HandleMarioFinishedLevel;
         EventManager.MoveUpClicked -= HandleMarioMoveUp;
         EventManager.MoveDownClicked -= HandleMarioMoveDown;
         EventManager.MoveRightClicked -= HandleMarioMoveRight;
@@ -71,10 +72,10 @@ public class PlayerManager : MonoBehaviour
         EventManager.AButtonClicked -= HandleMarioMoveUp;
         EventManager.BButtonClicked -= ShootFireball;
         EventManager.MegaMushroomPickupEvent -= HandleMegaMario;
-
     }
 
-    private void HandleMegaMario(){
+    private void HandleMegaMario()
+    {
         HandleMarioBigMode();
         megaMarioController.enabled = true;
     }
@@ -297,5 +298,44 @@ public class PlayerManager : MonoBehaviour
             playerStateController.SetBigState();
             playerCollisionController.MarioGotBigger();
         }
+    }
+
+    private void HandleMarioJumpedOnFlag()
+    {
+        canMarioMove = false;
+        playerMoveController.SetMarioMovingValue(false);
+        playerAnimationController.PlayMarioHitFlagAnimation();
+        playerMoveController.FreezeMarioXPosition();
+        playerMoveController.enabled = false;
+        playerAudioController.PlayFlagSound();
+    }
+
+    private void HandleMarioFinishedLevel()
+    {
+        if (GameState.IsInvincible)
+        {
+            return;
+        }
+        playerMoveController.UnfreezeMarioConstraints();
+        playerMoveController.FreezeMarioRotation();
+        Invoke("HandleMarioFinishedLevelPart2", 3.0f);
+    }
+
+    private void HandleMarioFinishedLevelPart2()
+    {
+        HandleMarioJump();
+        playerMoveController.AddForceRight(1);
+        HandleMarioRunRight();
+        Invoke("HandleMarioFinishedLevelPart3", 3.0f);
+    }
+    private void HandleMarioFinishedLevelPart3(){
+        playerAudioController.PlayFinishedLevelSound();
+        playerMoveController.AddForceRight(2);
+        HandleMarioRunRight();
+        Invoke("HandleMarioFinishedLevelPart4", 3.0f);
+    }
+    private void HandleMarioFinishedLevelPart4(){
+        playerMoveController.AddForceRight(1);
+        HandleMarioRunRight();
     }
 }

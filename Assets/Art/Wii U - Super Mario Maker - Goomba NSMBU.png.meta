@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,2632 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1136
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f13533ee9c25479f9dd5b0a43facd
+      internalID: -1523411414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1136
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4bfc32369ac44e915ad8ea81570f7
+      internalID: 848557432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1136
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45c1955b6a96d546b64d8dc5df357b4
+      internalID: 2063889110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1136
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57202c2534bc60746bb056d60ea6c1d8
+      internalID: 1854551532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1135
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2afc255eb2054ba60a09e9f3d7d89
+      internalID: 741859224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1135
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675359d3dd0a8144fb9baba5c3243e4e
+      internalID: -1535702364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_6
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1135
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65a447ff442864f9d8f2450ff3b886
+      internalID: -1588866196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1135
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae7859946973d4cbb5c8c038b53a81
+      internalID: -1079923138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1029
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a12b4f3dd30959449febcacbbaf0da9
+      internalID: 813664598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1029
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a4ce5387930a48a3604f04d96c85a
+      internalID: -1303874873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1029
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a23a8b41871f24aab9bfc32e48168e
+      internalID: 104151464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1029
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08923dd3f5bf7bb42bc3a89e3583533a
+      internalID: -1665683650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1028
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1d12a8c60f0da45afa0fd9d1b19a03
+      internalID: -1282029577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1028
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07d48e9daf92e94dab5e06b7b7ac2d4
+      internalID: 870365512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_14
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1028
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf48d3d58e048ab49b8e0e5d3f7ebad5
+      internalID: -2116587431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_15
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1029
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e4ff584e3306a4dadfbefde0dc1236
+      internalID: 360619128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6980e2af318d4c8eaee9a54441157
+      internalID: 1365217847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f796938c79c2a54c9b8ac43874c0a7b
+      internalID: 968693605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa7d525a72b5bf4f8766f12f4ae8db4
+      internalID: -1647460156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f3fb6450a4a64f841e468e84e3f07
+      internalID: -764745929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e43c2b0d84f246b274b02c23422ff
+      internalID: -2053049644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1c753724b02547aad5b9257c94598
+      internalID: 801088236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2087f92ff6b3418996aba8f31a6ae
+      internalID: 512232673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_23
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d5f5b42a2a26047b5e723af7c6360d
+      internalID: -1547868258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745f1658c73b2c54990a6aea97be07ae
+      internalID: 1932155075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf9a56f4e73a341a044288da412ad1
+      internalID: 1713228895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_26
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577748f56344cd2408738e82eb416cbf
+      internalID: -2129586719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb400b76e09102419d617032f538548
+      internalID: 860665250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_28
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c8754629914e48a7ce89f02485bb4
+      internalID: 1031405582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fead8b03636efa438c4eb105a9b7f75
+      internalID: 1614612586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4d5178cc132e42bc3ef48ad220866
+      internalID: -1817635069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_31
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 966
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690fb9844bb7af4193c4d4d5bc20b99
+      internalID: -69647926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 868
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e0dcc3488ba024283a782196ababf9
+      internalID: 1225933505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 867
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97038674e99dd04baf96a16acd99bd6
+      internalID: 1449006509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 867
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65163a9ffc516a94089d83ef1a88512e
+      internalID: 1730601624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 868
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf04fee8bccae459cd25f637ecd24c
+      internalID: -1878435992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_36
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 868
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff42aff77def4740ae2ebd83be1599f
+      internalID: 1410541900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 869
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b8199b33f928478f0e9a0eea92383
+      internalID: 1871413624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_38
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 869
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d4d7eaf1fba744b9fb27bb628bc119
+      internalID: -442524948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_39
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 869
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b25441f9d9f56479fa737c0f6e36e8
+      internalID: -23400831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 762
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a448c0e81eef47ad52d287c52510b
+      internalID: 766782076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 761
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c2aa0405599f54aae1086bfc8ee6e7
+      internalID: 1547347659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 761
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54697a8015f802489da63c18b7fe6d2
+      internalID: -1747703989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e335d1be93e8408c5ea7d198eb94c
+      internalID: 1363162961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8597c4b7f650b847b6f4c745f61e704
+      internalID: -232473706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d3f0f922b9cc46881bf9b2dadcc82
+      internalID: -1055135247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db99e144f6dbb40895c4c1059c6a3a
+      internalID: 1656857510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d7a23c85d24c41bf6d42eff59b976
+      internalID: -1831474473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a996adf3be7cca449e0e0bfe17594eb
+      internalID: 435083436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c2b9b8c5224a4f993339db2bf5412
+      internalID: -2083346475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3d0146a68c0a47a6693706936263a
+      internalID: -193748346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_51
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa38f17f41c639f4db7e2a493158b82e
+      internalID: 1388648877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_52
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce4f2acfd452c9418e2255693433a52
+      internalID: -808951184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 698
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ce0607956f8e4aa41fb91fef1bade
+      internalID: 1267374500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 599
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8bd2f694ecb44b9159f0a4241baeb
+      internalID: -651091630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 599
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4391e66067f0f5e47a2c4052e9575a91
+      internalID: -237268809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 600
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31844870881dad64581cb3e757bbb300
+      internalID: 1910229003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 601
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ae836cc58b6c442abdafc95bad240a
+      internalID: 1346798663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_58
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 601
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343314d9a97a92c4e9f41103c9a94c54
+      internalID: -926811769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_59
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 598
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c498bb076431054297ad3c9b80de2e2
+      internalID: 146592912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_60
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 595
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db9c52ecead0524f85f155f521380f3
+      internalID: -1617080920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_61
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 593
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3bc0d26f6e95a4d88cfa84e16ce2ea
+      internalID: 988085000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 485
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7aed287579fd40906277a4b571658
+      internalID: 1109301496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 485
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9278a15d3532bd4988afe52a2b491f6
+      internalID: -32983171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 485
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c759ee7850ae8343a9dcf946c876126
+      internalID: -1742427489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_65
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 485
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76030a4e5ade25447aaf4a8278d3a414
+      internalID: -193961814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_66
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 486
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8efc2c1d696564e920f18efd310aff
+      internalID: -1398694300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_67
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 486
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ff7f5c7f8ee345a1385ef3420ca0b
+      internalID: -1797216491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_68
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 489
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba863207c363faa48a4fc61f4c09f385
+      internalID: 86836503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_69
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 491
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc503c2f4a4c7f49b5baf3344f47994
+      internalID: -85005623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 387
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682d8ee3283ba44eb8090fabdec00b3
+      internalID: 1487325482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 387
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14445c583c2702a4ca6214eea4e36b54
+      internalID: -1660994792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_72
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 386
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea72ff252c9c484d995bebc71ff5ac9
+      internalID: -947460867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_73
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 385
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f6fc1d63c504547b570ef095751e22
+      internalID: 750242155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_74
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 385
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac0251173d95641b79e59fbfd8f63b
+      internalID: 617780056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744c8eab8d0dd24e9394abf19387669
+      internalID: -1760689084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab31b0a8042e140844c529b9bf85c2
+      internalID: -738520329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0b7106ce0c3a4fa318ad9c4bf1891
+      internalID: -1976870501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_78
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e8f3f5bd654c44aa8bb3a75ca6a88
+      internalID: 270713713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_79
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bdf7c7f5edc74bbdc75615f8da8e1
+      internalID: 1816023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29cf0a859466a44fba2098376cf01ce
+      internalID: 1168735658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_81
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b330026f7ef234aa9da5b89943c8a6
+      internalID: 1094238629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_82
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa6b85ddac1294f934b425bdb077c3
+      internalID: 180526520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_83
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d9f1dd441dd0641bfe6792d3d89219
+      internalID: 2055962684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_84
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fd05718d0e774088969a5f68c9a0e
+      internalID: -1863416476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_85
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85855d2b932845f419d6fa927decf192
+      internalID: -806663301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369186d39a83884f826d3db5b450077
+      internalID: 1332663247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_87
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42ad1da1a181e43930740c9ad13815
+      internalID: 393651469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_88
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a56fc7590768b14e95d20f8715afca7
+      internalID: -1020839843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_89
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390174dab1c43a54180dc75cb57b0f2f
+      internalID: -1712683390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_90
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 323
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7608c55660fefbb4ead8635f5cf67fe6
+      internalID: 847019022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1adba9106e07e45ac1222e2c4dfe90
+      internalID: 1277746540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 269
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110708403e98ab4d980ae5b962bf80b
+      internalID: 2046460397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_93
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 269
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f50679f4626d4c8ee4eb8f0a473d2
+      internalID: 125106734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 269
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a706a4b8b41245bd7f19ff8c34b11
+      internalID: -2120100535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_95
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 269
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484fe0608b6b0d498f0411f17b7456c
+      internalID: 1026836418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bb51d54758e3442b4b7a621b44f884
+      internalID: 27231061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 109
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077cd159cd6465458bca5e4e2f5a7c0
+      internalID: 575097435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 171
+        width: 114
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f8c128c03e6142ab224539310a095
+      internalID: 1164917750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_99
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 171
+        width: 109
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8b245a9ea2214198680240b9a7e16
+      internalID: -1590596770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_100
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 171
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecce3b6de0590742a82e6866f2b081e
+      internalID: -781561166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_101
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 171
+        width: 107
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ca586f9bde794ab69525d0de08a0a
+      internalID: 2052882246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_102
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 171
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc819d3bb39edb64490d9e40d1de9c47
+      internalID: -1703764287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_103
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 171
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7663f58f08304c9a53195176129dc
+      internalID: 857516699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8067575ae220764cbeb40870a30c97b
+      internalID: 615397823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 110
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeae98d362e52746a396bc34c1b917c
+      internalID: 971659243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_106
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 64
+        width: 108
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ffe6bf4e98ff4f879ef0de2676456
+      internalID: 750360911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_107
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 64
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08320fd8357b314cba153bd55158494
+      internalID: 996648861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_108
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 64
+        width: 106
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c5ab80b420634791099dacbdd122a
+      internalID: 1939310348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_109
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 64
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f52db081dbf6554f8df7bc00a814641
+      internalID: 2146432975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_110
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 71
+        width: 227
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41559cfa32704945af80540a44187a3
+      internalID: 2040001605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51bdecabc2fe0646a87b43477cfb1f6
+      internalID: 2027740145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_112
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dae9bcd30dd0d4ab1e8d4fc25b63b4
+      internalID: -1752553302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_113
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8edd12c163a8842be0fc50aee9595b
+      internalID: -1914667361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_114
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b5ca2f227c9f47ae70bb34942f2d3
+      internalID: 1119578643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576e5741e41ab143b8bfcf732b1b411
+      internalID: 422551857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_116
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57daa9c280e93042b53dc52d6ec1dfc
+      internalID: 2140628484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_117
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e0b5cc58ecea4e86d0799618490db
+      internalID: -1729153107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_118
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579d10a0347c504b91f3ec1c027f86a
+      internalID: 890715122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_119
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919706799f285ca42956fb9112d1f846
+      internalID: 434576679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_120
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61d3d32fe94be4c87d91dc1ea3f248
+      internalID: 929247755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_121
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca25ea0056d95c4aba0e9643b8d8177
+      internalID: 1443688613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4650d5ade092469cac9983dcdcd26
+      internalID: -1315270297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_123
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c424820d8a9a914438177c04926cf744
+      internalID: -192271982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii U - Super Mario Maker - Goomba NSMBU_124
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c09f4ba61a88438125441bfc451c6
+      internalID: 434500712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +2751,132 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wii U - Super Mario Maker - Goomba NSMBU_81: 1094238629
+      Wii U - Super Mario Maker - Goomba NSMBU_123: -192271982
+      Wii U - Super Mario Maker - Goomba NSMBU_115: 422551857
+      Wii U - Super Mario Maker - Goomba NSMBU_51: 1388648877
+      Wii U - Super Mario Maker - Goomba NSMBU_78: 270713713
+      Wii U - Super Mario Maker - Goomba NSMBU_77: -1976870501
+      Wii U - Super Mario Maker - Goomba NSMBU_63: -32983171
+      Wii U - Super Mario Maker - Goomba NSMBU_1: 848557432
+      Wii U - Super Mario Maker - Goomba NSMBU_18: -1647460156
+      Wii U - Super Mario Maker - Goomba NSMBU_55: -237268809
+      Wii U - Super Mario Maker - Goomba NSMBU_90: 847019022
+      Wii U - Super Mario Maker - Goomba NSMBU_9: -1303874873
+      Wii U - Super Mario Maker - Goomba NSMBU_11: -1665683650
+      Wii U - Super Mario Maker - Goomba NSMBU_107: 996648861
+      Wii U - Super Mario Maker - Goomba NSMBU_111: 2027740145
+      Wii U - Super Mario Maker - Goomba NSMBU_112: -1752553302
+      Wii U - Super Mario Maker - Goomba NSMBU_104: 615397823
+      Wii U - Super Mario Maker - Goomba NSMBU_49: -2083346475
+      Wii U - Super Mario Maker - Goomba NSMBU_116: 2140628484
+      Wii U - Super Mario Maker - Goomba NSMBU_109: 2146432975
+      Wii U - Super Mario Maker - Goomba NSMBU_24: 1932155075
+      Wii U - Super Mario Maker - Goomba NSMBU_50: -193748346
+      Wii U - Super Mario Maker - Goomba NSMBU_102: -1703764287
+      Wii U - Super Mario Maker - Goomba NSMBU_57: 1346798663
+      Wii U - Super Mario Maker - Goomba NSMBU_17: 968693605
+      Wii U - Super Mario Maker - Goomba NSMBU_28: 1031405582
+      Wii U - Super Mario Maker - Goomba NSMBU_93: 125106734
+      Wii U - Super Mario Maker - Goomba NSMBU_6: -1588866196
+      Wii U - Super Mario Maker - Goomba NSMBU_72: -947460867
+      Wii U - Super Mario Maker - Goomba NSMBU_65: -193961814
+      Wii U - Super Mario Maker - Goomba NSMBU_56: 1910229003
+      Wii U - Super Mario Maker - Goomba NSMBU_34: 1730601624
+      Wii U - Super Mario Maker - Goomba NSMBU_52: -808951184
+      Wii U - Super Mario Maker - Goomba NSMBU_103: 857516699
+      Wii U - Super Mario Maker - Goomba NSMBU_96: 27231061
+      Wii U - Super Mario Maker - Goomba NSMBU_43: 1363162961
+      Wii U - Super Mario Maker - Goomba NSMBU_66: -1398694300
+      Wii U - Super Mario Maker - Goomba NSMBU_26: -2129586719
+      Wii U - Super Mario Maker - Goomba NSMBU_79: 1816023825
+      Wii U - Super Mario Maker - Goomba NSMBU_35: -1878435992
+      Wii U - Super Mario Maker - Goomba NSMBU_48: 435083436
+      Wii U - Super Mario Maker - Goomba NSMBU_15: 360619128
+      Wii U - Super Mario Maker - Goomba NSMBU_58: -926811769
+      Wii U - Super Mario Maker - Goomba NSMBU_45: -1055135247
+      Wii U - Super Mario Maker - Goomba NSMBU_117: -1729153107
+      Wii U - Super Mario Maker - Goomba NSMBU_106: 750360911
+      Wii U - Super Mario Maker - Goomba NSMBU_118: 890715122
+      Wii U - Super Mario Maker - Goomba NSMBU_88: -1020839843
+      Wii U - Super Mario Maker - Goomba NSMBU_83: 2055962684
+      Wii U - Super Mario Maker - Goomba NSMBU_16: 1365217847
+      Wii U - Super Mario Maker - Goomba NSMBU_22: 512232673
+      Wii U - Super Mario Maker - Goomba NSMBU_4: 741859224
+      Wii U - Super Mario Maker - Goomba NSMBU_8: 813664598
+      Wii U - Super Mario Maker - Goomba NSMBU_7: -1079923138
+      Wii U - Super Mario Maker - Goomba NSMBU_85: -806663301
+      Wii U - Super Mario Maker - Goomba NSMBU_76: -738520329
+      Wii U - Super Mario Maker - Goomba NSMBU_44: -232473706
+      Wii U - Super Mario Maker - Goomba NSMBU_3: 1854551532
+      Wii U - Super Mario Maker - Goomba NSMBU_71: -1660994792
+      Wii U - Super Mario Maker - Goomba NSMBU_37: 1871413624
+      Wii U - Super Mario Maker - Goomba NSMBU_62: 1109301496
+      Wii U - Super Mario Maker - Goomba NSMBU_92: 2046460397
+      Wii U - Super Mario Maker - Goomba NSMBU_20: -2053049644
+      Wii U - Super Mario Maker - Goomba NSMBU_119: 434576679
+      Wii U - Super Mario Maker - Goomba NSMBU_95: 1026836418
+      Wii U - Super Mario Maker - Goomba NSMBU_38: -442524948
+      Wii U - Super Mario Maker - Goomba NSMBU_23: -1547868258
+      Wii U - Super Mario Maker - Goomba NSMBU_98: 1164917750
+      Wii U - Super Mario Maker - Goomba NSMBU_32: 1225933505
+      Wii U - Super Mario Maker - Goomba NSMBU_121: 1443688613
+      Wii U - Super Mario Maker - Goomba NSMBU_21: 801088236
+      Wii U - Super Mario Maker - Goomba NSMBU_30: -1817635069
+      Wii U - Super Mario Maker - Goomba NSMBU_82: 180526520
+      Wii U - Super Mario Maker - Goomba NSMBU_46: 1656857510
+      Wii U - Super Mario Maker - Goomba NSMBU_75: -1760689084
+      Wii U - Super Mario Maker - Goomba NSMBU_19: -764745929
+      Wii U - Super Mario Maker - Goomba NSMBU_68: 86836503
+      Wii U - Super Mario Maker - Goomba NSMBU_67: -1797216491
+      Wii U - Super Mario Maker - Goomba NSMBU_101: 2052882246
+      Wii U - Super Mario Maker - Goomba NSMBU_80: 1168735658
+      Wii U - Super Mario Maker - Goomba NSMBU_40: 766782076
+      Wii U - Super Mario Maker - Goomba NSMBU_124: 434500712
+      Wii U - Super Mario Maker - Goomba NSMBU_97: 575097435
+      Wii U - Super Mario Maker - Goomba NSMBU_91: 1277746540
+      Wii U - Super Mario Maker - Goomba NSMBU_5: -1535702364
+      Wii U - Super Mario Maker - Goomba NSMBU_25: 1713228895
+      Wii U - Super Mario Maker - Goomba NSMBU_53: 1267374500
+      Wii U - Super Mario Maker - Goomba NSMBU_69: -85005623
+      Wii U - Super Mario Maker - Goomba NSMBU_54: -651091630
+      Wii U - Super Mario Maker - Goomba NSMBU_12: -1282029577
+      Wii U - Super Mario Maker - Goomba NSMBU_114: 1119578643
+      Wii U - Super Mario Maker - Goomba NSMBU_39: -23400831
+      Wii U - Super Mario Maker - Goomba NSMBU_42: -1747703989
+      Wii U - Super Mario Maker - Goomba NSMBU_110: 2040001605
+      Wii U - Super Mario Maker - Goomba NSMBU_84: -1863416476
+      Wii U - Super Mario Maker - Goomba NSMBU_94: -2120100535
+      Wii U - Super Mario Maker - Goomba NSMBU_100: -781561166
+      Wii U - Super Mario Maker - Goomba NSMBU_41: 1547347659
+      Wii U - Super Mario Maker - Goomba NSMBU_64: -1742427489
+      Wii U - Super Mario Maker - Goomba NSMBU_0: -1523411414
+      Wii U - Super Mario Maker - Goomba NSMBU_86: 1332663247
+      Wii U - Super Mario Maker - Goomba NSMBU_33: 1449006509
+      Wii U - Super Mario Maker - Goomba NSMBU_87: 393651469
+      Wii U - Super Mario Maker - Goomba NSMBU_14: -2116587431
+      Wii U - Super Mario Maker - Goomba NSMBU_74: 617780056
+      Wii U - Super Mario Maker - Goomba NSMBU_13: 870365512
+      Wii U - Super Mario Maker - Goomba NSMBU_29: 1614612586
+      Wii U - Super Mario Maker - Goomba NSMBU_105: 971659243
+      Wii U - Super Mario Maker - Goomba NSMBU_10: 104151464
+      Wii U - Super Mario Maker - Goomba NSMBU_89: -1712683390
+      Wii U - Super Mario Maker - Goomba NSMBU_59: 146592912
+      Wii U - Super Mario Maker - Goomba NSMBU_60: -1617080920
+      Wii U - Super Mario Maker - Goomba NSMBU_122: -1315270297
+      Wii U - Super Mario Maker - Goomba NSMBU_31: -69647926
+      Wii U - Super Mario Maker - Goomba NSMBU_36: 1410541900
+      Wii U - Super Mario Maker - Goomba NSMBU_113: -1914667361
+      Wii U - Super Mario Maker - Goomba NSMBU_2: 2063889110
+      Wii U - Super Mario Maker - Goomba NSMBU_120: 929247755
+      Wii U - Super Mario Maker - Goomba NSMBU_27: 860665250
+      Wii U - Super Mario Maker - Goomba NSMBU_61: 988085000
+      Wii U - Super Mario Maker - Goomba NSMBU_70: 1487325482
+      Wii U - Super Mario Maker - Goomba NSMBU_108: 1939310348
+      Wii U - Super Mario Maker - Goomba NSMBU_47: -1831474473
+      Wii U - Super Mario Maker - Goomba NSMBU_99: -1590596770
+      Wii U - Super Mario Maker - Goomba NSMBU_73: 750242155
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

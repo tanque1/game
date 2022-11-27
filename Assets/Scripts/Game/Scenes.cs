@@ -9,6 +9,7 @@ public static class Scenes
    public const string LEVEL1 = "Level1";
    public const string LEVEL1_2  = "Level1_2";
    public const string LEVEL2 = "Level2";
+   public const string LEVEL3 = "Level2";
    public const string START_SCREEN = "StartScreen";
    public const string UI = "UI";
    public const string SKY_LEVEL = "SkyLevel";

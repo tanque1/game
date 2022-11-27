@@ -45,6 +45,8 @@ public class Pipe : MonoBehaviour, IBreakable
                 rigidbody.gameObject.transform.rotation =
                     Quaternion.Euler(0, 0, 90);
             }
+            rigidbody.AddForce(-Vector2.up * 550);
+
         }
     }
 }

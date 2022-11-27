@@ -4,6 +4,6 @@ public class Coin : Item
     {
         GameState.Coins++;
         EventManager.CoinPickupEvent?.Invoke();
-        Invoke("HideItem", 2.0f);
+        Invoke("HideItem", 0.2f);
     }
 }

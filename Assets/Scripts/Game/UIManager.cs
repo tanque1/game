@@ -39,7 +39,7 @@ public class UIManager : MonoBehaviour
 
         if (coinsObject)
         {
-            coinsText = livesObject.GetComponent<TextMeshProUGUI>();
+            coinsText = coinsObject.GetComponent<TextMeshProUGUI>();
         }
 
         if (starsObject)
