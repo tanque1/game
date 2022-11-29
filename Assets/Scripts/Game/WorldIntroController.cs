@@ -1,39 +1,41 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class WorldIntroController : MonoBehaviour
 {
-    GameObject worldNumberObject;
+    GameObject worldNumberObject = null;
 
-    GameObject worldNameObject;
+    GameObject worldNameObject = null;
 
-    GameObject livesObject;
+    GameObject livesObject = null;
 
-    Text worldNameText;
+    TextMeshProUGUI worldNameText;
 
-    Text worldNumberText;
+    TextMeshProUGUI worldNumberText;
 
-    Text livesText;
+    TextMeshProUGUI livesText;
 
     void OnEnable()
     {
         worldNameObject = GameObject.Find("WorldNameText");
         worldNumberObject = GameObject.Find("WorldNumberText");
         livesObject = GameObject.Find("LivesNumber");
-
-        if (worldNumberObject)
+        Debug.Log (livesObject);
+        if (worldNumberObject != null)
         {
-            worldNumberText = worldNumberObject.GetComponent<Text>();
+            worldNumberText = worldNumberObject.GetComponent<TextMeshProUGUI>();
         }
 
-        if (worldNameObject)
+        if (worldNameObject != null)
         {
-            worldNameText = worldNameObject.GetComponent<Text>();
+            worldNameText = worldNameObject.GetComponent<TextMeshProUGUI>();
         }
 
-        if (livesObject)
+        if (livesObject != null)
         {
-            livesText = livesObject.GetComponent<Text>();
+            livesText = livesObject.GetComponent<TextMeshProUGUI>();
+            Debug.Log(livesText);
         }
 
         UpdateWorldNumberText();
@@ -46,7 +48,9 @@ public class WorldIntroController : MonoBehaviour
         if (worldNumberText)
         {
             worldNumberText.text =
-                LevelController.levelIntroNumbers[LevelController.index].ToString();
+                LevelController
+                    .levelIntroNumbers[LevelController.index]
+                    .ToString();
         }
     }
 
