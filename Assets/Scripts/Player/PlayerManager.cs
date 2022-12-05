@@ -119,7 +119,17 @@ public class PlayerManager : MonoBehaviour
                 Invoke("HandleMarioIdle", 1.0f);
             }
         }
-        if(playerStateController.IsMarioInBigState() &&  !playerCollisionController.GetBigCollider().activeSelf){
+        if (
+            (
+            playerStateController.IsMarioInFireState() &&
+            !playerCollisionController.GetBigCollider().activeSelf
+            ) ||
+            (
+            playerStateController.IsMarioInBigState() &&
+            !playerCollisionController.GetBigCollider().activeSelf
+            )
+        )
+        {
             playerCollisionController.MarioGotBigger();
         }
     }
@@ -333,13 +343,17 @@ public class PlayerManager : MonoBehaviour
         HandleMarioRunRight();
         Invoke("HandleMarioFinishedLevelPart3", 3.0f);
     }
-    private void HandleMarioFinishedLevelPart3(){
+
+    private void HandleMarioFinishedLevelPart3()
+    {
         playerAudioController.PlayFinishedLevelSound();
         playerMoveController.AddForceRight(2);
         HandleMarioRunRight();
         Invoke("HandleMarioFinishedLevelPart4", 3.0f);
     }
-    private void HandleMarioFinishedLevelPart4(){
+
+    private void HandleMarioFinishedLevelPart4()
+    {
         playerMoveController.AddForceRight(1);
         HandleMarioRunRight();
     }
