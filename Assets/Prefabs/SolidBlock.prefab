@@ -583,7 +583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockAnimator: {fileID: 0}
-  blockHitSound: {fileID: 8955317087710104543}
+  blockHitSound: {fileID: 0}
   blockTrigger: {fileID: 0}
   triggerObject: {fileID: 0}
   colliderObject: {fileID: 6183947610774300222}
@@ -772,7 +772,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.014925301, y: 0.008799672}
+  m_Offset: {x: 0.0025376081, y: 0.0027548075}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -783,7 +783,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6567131, y: 0.663368}
+  m_Size: {x: 0.69163895, y: 0.6996372}
   m_EdgeRadius: 0
 --- !u!1 &8279500547649702861
 GameObject:

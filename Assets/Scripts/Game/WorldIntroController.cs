@@ -21,7 +21,6 @@ public class WorldIntroController : MonoBehaviour
         worldNameObject = GameObject.Find("WorldNameText");
         worldNumberObject = GameObject.Find("WorldNumberText");
         livesObject = GameObject.Find("LivesNumber");
-        Debug.Log (livesObject);
         if (worldNumberObject != null)
         {
             worldNumberText = worldNumberObject.GetComponent<TextMeshProUGUI>();
@@ -35,7 +34,6 @@ public class WorldIntroController : MonoBehaviour
         if (livesObject != null)
         {
             livesText = livesObject.GetComponent<TextMeshProUGUI>();
-            Debug.Log(livesText);
         }
 
         UpdateWorldNumberText();

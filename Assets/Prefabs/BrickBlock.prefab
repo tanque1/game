@@ -272,7 +272,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3440449160090202866}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.7698706, y: -0.09664621, z: 0}
+  m_LocalPosition: {x: 0.786, y: -0.086, z: 0}
   m_LocalScale: {x: 1.6657662, y: 1.5509048, z: 2.3369038}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -748,8 +748,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2329159101993917695}
   - component: {fileID: 1189219209081841299}
-  - component: {fileID: 7615368409020294150}
   - component: {fileID: 1735501429028395011}
+  - component: {fileID: 6758642767428632197}
   m_Layer: 0
   m_Name: BrickBlock
   m_TagString: Untagged
@@ -830,7 +830,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7615368409020294150
+--- !u!95 &1735501429028395011
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6360613366802258195}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e2812d3f3f6857f4d96dac9c0d4b9280, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6758642767428632197
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -843,7 +863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockAnimator: {fileID: 1735501429028395011}
-  blockHitSound: {fileID: 0}
+  blockHitSound: {fileID: 5657330283956649692}
   blockTrigger: {fileID: 3831034591387547860}
   triggerObject: {fileID: 5288156761122801227}
   colliderObject: {fileID: 3440449160090202866}
@@ -859,26 +879,6 @@ MonoBehaviour:
   blockType: 0
   coin: {fileID: 2409407007790370785}
   blockBrick: {fileID: 6360613366802258195}
---- !u!95 &1735501429028395011
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6360613366802258195}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 51abc3a332d368145b667d2bee4c6887, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7645849488672382867
 GameObject:
   m_ObjectHideFlags: 0
@@ -903,7 +903,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7645849488672382867}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.1720306, y: -0.34658223, z: -0.013399068}
+  m_LocalPosition: {x: -1.178, y: -0.233, z: -0.013399068}
   m_LocalScale: {x: 0.44311062, y: 0.48110226, z: 0.7007125}
   m_ConstrainProportionsScale: 0
   m_Children:

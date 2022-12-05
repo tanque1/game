@@ -7,6 +7,8 @@ public class BrickBlock : Block, IBreakable
     [SerializeField]
     SpriteRenderer spriteRenderer = null;
 
+    
+
     [SerializeField]
     GameObject debris = null;
 
@@ -54,7 +56,9 @@ public class BrickBlock : Block, IBreakable
 
     public override void HandlePlayerHitBlock()
     {
-        if (blockType == BlockType.EMPTY)
+        // base.HandlePlayerHitBlock();
+
+        if (blockType == BlockType.EMPTY )
         {
             HandleEmptyBlockHit();
         }
@@ -69,7 +73,6 @@ public class BrickBlock : Block, IBreakable
     void HandleEmptyBlockHit()
     {
         if (hit) return;
-
         if (coin)
         {
             coin.SetActive(false);
@@ -77,6 +80,8 @@ public class BrickBlock : Block, IBreakable
         hit = true;
         blockBreakAudio.Play();
         colliderObject.SetActive(false);
+        Collider2D collider = colliderObject.GetComponent<Collider2D>();
+        collider.enabled = false;
         triggerObject.SetActive(false);
         debris.SetActive(true);
         spriteRenderer.enabled = false;
@@ -84,12 +89,34 @@ public class BrickBlock : Block, IBreakable
         {
             rigidbody.AddRelativeForce(Random.onUnitSphere * 200);
         }
+    
         Invoke("HandleDestroy", 0.5f);
     }
 
+void HandleSolidBlockHit()
+    {
+       if (coin)
+        {
+            coin.SetActive(false);
+        }
+
+        
+        blockBreakAudio.Play();
+        colliderObject.SetActive(false);
+        debris.SetActive(true);
+        spriteRenderer.enabled = false;
+
+        foreach (Rigidbody2D rigidbody in debrisObjects)
+        {
+            rigidbody.AddRelativeForce(Random.onUnitSphere * 200);
+        }
+        Invoke("HandleDestroy", 0.5f);
+    }
+
+
     void HandleDestroy()
     {
-        Destroy (blockBrick);
+        Destroy(blockBrick);
     }
 
     void HandleCoinBlockHit()
@@ -101,16 +128,16 @@ public class BrickBlock : Block, IBreakable
         EventManager.CoinPickupEvent?.Invoke();
         blockAnimator.Play(Animations.HIT);
         numCoins--;
-
         Invoke("SetIdle", 0.2f);
     }
 
     public void SetIdle()
     {
-        if (numCoins == 0)
+        if (numCoins <= 0)
         {
             hit = true;
             blockAnimator.Play(Animations.FINISHED);
+            Debug.Log(triggerObject);
             triggerObject.SetActive(false);
             colliderObject.SetActive(true);
         }

@@ -47,4 +47,8 @@ public class EventManager
     public static Action FreezeCameraEvent;
 
     public static Action StopPlayingAllAudioEvent;
+
+    public static Action StartLevel2IntroSequence;
+
+    public static Action StopLevel2IntroSeQuence;
 }

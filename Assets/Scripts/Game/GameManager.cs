@@ -39,8 +39,8 @@ public class GameManager : MonoBehaviour
 
         EventManager.LoadNextLevelEvent += HandleLoadNextLevel;
 
-        // EventManager.StartLevel2IntroSequence += HandleStartLevel2IntroSequence;
-        // EventManager.StopLevel2IntroSeQuence += HandleStopLevel2IntroSeQuence;
+        EventManager.StartLevel2IntroSequence += HandleStartLevel2IntroSequence;
+        EventManager.StopLevel2IntroSeQuence += HandleStopLevel2IntroSeQuence;
         SceneManager.activeSceneChanged += HandleSceneWasChanged;
     }
 
@@ -69,8 +69,8 @@ public class GameManager : MonoBehaviour
 
         EventManager.LoadNextLevelEvent -= HandleLoadNextLevel;
 
-        // EventManager.StartLevel2IntroSequence -= HandleStartLevel2IntroSequence;
-        // EventManager.StopLevel2IntroSeQuence -= HandleStopLevel2IntroSeQuence;
+        EventManager.StartLevel2IntroSequence -= HandleStartLevel2IntroSequence;
+        EventManager.StopLevel2IntroSeQuence -= HandleStopLevel2IntroSeQuence;
         SceneManager.activeSceneChanged -= HandleSceneWasChanged;
     }
 
@@ -235,5 +235,15 @@ public class GameManager : MonoBehaviour
         {
             audio.Stop();
         }
+    }
+
+    public void HandleStartLevel2IntroSequence()
+    {
+        playerManager.HandleStartMarioStomp();
+    }
+
+    public void HandleStopLevel2IntroSeQuence()
+    {
+        playerManager.HandleEndMarioStomp();
     }
 }

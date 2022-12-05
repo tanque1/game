@@ -30,6 +30,8 @@ public class MegaMarioController : MonoBehaviour
             enabled = false;
             StopMegaMarioMusic();
             EventManager.MegaMarioBackToRegularSizeEvent?.Invoke();
+            GameState.IsInvincible = false;
+
         }
     }
 
@@ -47,9 +49,9 @@ public class MegaMarioController : MonoBehaviour
     {
         if (GameState.IsInvincible)
         {
-            // collision.gameObject.SendMessage("Break");
-            // collision.gameObject.transform.parent.SendMessage("Break");
-            // collision.gameObject.transform.parent.parent.SendMessage("Break");
+            collision.gameObject.SendMessage("Break");
+            collision.gameObject.transform.parent.SendMessage("Break");
+            collision.gameObject.transform.parent.parent.SendMessage("Break");
         }
     }
 }

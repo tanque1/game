@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,1288 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1283
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd203c15f2ceb254fb2102df401b52c2
+      internalID: -695661433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1277
+        width: 248
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a0c42e62a48d4d90c1462cfe496c8
+      internalID: 2054747518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1277
+        width: 250
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe93663fbd44653418a0a47ad4032c88
+      internalID: 1102306312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1277
+        width: 247
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd49c11bb330d94295e4eed928d6676
+      internalID: -2037363833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1277
+        width: 248
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3aaad14411a0499dc3e0212587009
+      internalID: 36730121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_5
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1277
+        width: 251
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077baa45ba4a1fc449ccb04160f07f6a
+      internalID: -841763255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_6
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1277
+        width: 253
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cbc143514764c46b843ddfdbe59210
+      internalID: -2050130086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_7
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1276
+        width: 263
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec44d36b746bd48be3d7ca247704e5
+      internalID: -2096815633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_8
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1276
+        width: 259
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41427716b624b7a44a3410eee00896c0
+      internalID: 849589077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 879
+        width: 252
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f744e0ea98e642bfcdf13b9a878f5
+      internalID: 1564471664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 879
+        width: 180
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d922065b4e425a42848184270bbde71
+      internalID: 545911792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 878
+        width: 258
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72da057900b71d4c84fa914ffcec970
+      internalID: -1721897432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_12
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 878
+        width: 250
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e7660b2d340a4f855ce36a57c6415
+      internalID: -1934170569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_13
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 879
+        width: 266
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e33ddffaada8244fb40833095590d23
+      internalID: -684890880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_14
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 879
+        width: 256
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783923fa84f0cd848ba215158ab7c719
+      internalID: 226152619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 878
+        width: 238
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a204da90329c3b345a77d3077d2f7abd
+      internalID: 2914015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_16
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 878
+        width: 241
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9a49061e867d4ea5ba5cf09836cdb
+      internalID: -2129929309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_17
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 879
+        width: 234
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637a8062a651764b8bafc26f485e58c
+      internalID: -1236492392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_18
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 876
+        width: 176
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3f3380a4908a438b6729ca5d074a9
+      internalID: 1219962483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 511
+        width: 239
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55ab4f172512174281f9c0dc0752eaf
+      internalID: -269694408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 506
+        width: 185
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bede873dc48173343804e613272ff58e
+      internalID: -2135469946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_21
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 513
+        width: 231
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b9ab62aeda0014e9463e4ec5001a1c
+      internalID: -1722354549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_22
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 513
+        width: 169
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ce9d1ef6e0784bacf541ed7bca7a0
+      internalID: 919691829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 513
+        width: 230
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd00b34a39c5d4ea16dc168a689495
+      internalID: 966825109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_24
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 513
+        width: 233
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c52e663b890cfa40a537ea36299c9ca
+      internalID: 1731883933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_25
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 513
+        width: 214
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68bcdf99081bed4cad106cd009c478b
+      internalID: 1337392051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_26
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 513
+        width: 213
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53477c39342715a478c49e00cbf437ac
+      internalID: 420868309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_27
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 513
+        width: 165
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628955f9e59cd0448430f824a781225
+      internalID: 101515417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_28
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 513
+        width: 240
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c701d2e2731c43a5d72d758e6d678
+      internalID: -33694745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 159
+        width: 268
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4b55956048704cbece57dfb431ce5
+      internalID: -366237071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 159
+        width: 189
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269a254806ea5a4b86d0f0cbce7db1f
+      internalID: -1395914192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_31
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 159
+        width: 181
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdad7d529767bc44b442683bfbaabec
+      internalID: 1936361708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_32
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 154
+        width: 194
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fc5f5991763f469467313ca62ed4e
+      internalID: -1785857319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_33
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 156
+        width: 271
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18338b4e89ed14fa772ab93a6f9d81
+      internalID: 1974063738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_34
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 156
+        width: 274
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3881b9560579a48a4f85284b3b4207
+      internalID: -897499248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_35
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 398
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365924205210d845bf69f876fc5d643
+      internalID: 776135080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_36
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 396
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517ec54936c0ff4b82f4e961524d63d
+      internalID: 785170614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_37
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 407
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3670a9c61c162b47a1a9b2cf3322e0b
+      internalID: 280536241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_38
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 404
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464fd437a493fb04e9b633810824db58
+      internalID: -1261719816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_39
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 398
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c8a61d3baab9c44858bde63d2af819
+      internalID: 1544282973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_40
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 396
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a85516e6d082244b9f5692dd52284c
+      internalID: -1507549878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_41
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 343
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca20968f848944f8d2f4061d023a99
+      internalID: -671953120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_42
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 286
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c5249da7fc8b4db7a02b9768bc6e4
+      internalID: -1610710716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_43
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 321
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc61a2e89e4b4834389d9196201b6fb9
+      internalID: 2052848907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_44
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 356
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f4aa892fe5224794fcdb5c759fc12
+      internalID: -1724295962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_45
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 353
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df69059fe42152418aa723cf0350374
+      internalID: -1511908209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_46
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 358
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928cf84ae3a721c4ebfcf9e3de4cb5f9
+      internalID: -1627189968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_47
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 353
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a346c129c86344db43ca1967677599
+      internalID: -377836530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_48
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 326
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48ac957deb7aa46ac7de63658c0666
+      internalID: 1051758235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_49
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 290
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192f1383ecf57043aab21931279df20
+      internalID: 2101271745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_50
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 221
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c050db6ba1ced4ca71e58bd29952c1
+      internalID: 1976364929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_51
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 214
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75fd3b5a50be4f4686a4be0671eb66c
+      internalID: 2063139278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_52
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 188
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a373de357cab8428d596cd7a9b672f
+      internalID: -1466815520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_53
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 270
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6070cb2ffed24ea62b5ea249c29c4
+      internalID: -378707085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_54
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 185
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8f74959a38564d83fd6bb116dc52a
+      internalID: -1251948946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_55
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 180
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce202ac080ad2bf4c9d434caecbb34ef
+      internalID: -1243423402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_56
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 163
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a0168622001248b3041d0d4929503
+      internalID: 979518972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_57
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 19
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8340c33832d7944c9d6f470094ad201
+      internalID: 106688312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_58
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 163
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84359bc0c1e64c34fa7dd4a8a4e23f2c
+      internalID: -382848571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_59
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 95
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068db3cb4acaa6498c624e51a26f6f2
+      internalID: -1612452870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_60
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 60
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c5100495edf4419c7b97cea3213da
+      internalID: -1864946938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +1407,68 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_47: -377836530
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_51: 2063139278
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_39: 1544282973
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_41: -671953120
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_24: 1731883933
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_50: 1976364929
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_48: 1051758235
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_58: -382848571
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_43: 2052848907
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_38: -1261719816
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_4: 36730121
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_30: -1395914192
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_21: -1722354549
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_32: -1785857319
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_34: -897499248
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_20: -2135469946
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_26: 420868309
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_7: -2096815633
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_22: 919691829
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_5: -841763255
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_12: -1934170569
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_29: -366237071
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_0: -695661433
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_56: 979518972
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_3: -2037363833
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_18: 1219962483
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_45: -1511908209
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_46: -1627189968
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_49: 2101271745
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_33: 1974063738
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_6: -2050130086
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_11: -1721897432
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_54: -1251948946
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_40: -1507549878
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_1: 2054747518
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_60: -1864946938
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_44: -1724295962
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_9: 1564471664
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_28: -33694745
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_10: 545911792
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_25: 1337392051
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_31: 1936361708
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_55: -1243423402
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_16: -2129929309
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_2: 1102306312
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_13: -684890880
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_17: -1236492392
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_15: 2914015
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_37: 280536241
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_27: 101515417
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_8: 849589077
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_59: -1612452870
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_52: -1466815520
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_19: -269694408
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_36: 785170614
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_57: 106688312
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_14: 226152619
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_23: 966825109
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_42: -1610710716
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_53: -378707085
+      Custom Edited - Mario Customs - Mr Blizzard Paper Mario-Style Modern_35: 776135080
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -35,7 +35,7 @@ public class LevelController : MonoBehaviour
             new List<string> {
                 Scenes.LEVEL1,
                 Scenes.LEVEL2,
-                Scenes.LEVEL3,
+                Scenes.SKY_LEVEL,
                 Scenes.SNOW_LEVEL,
                 Scenes.GRAVEYARD,
                 Scenes.WATER_LEVEL,

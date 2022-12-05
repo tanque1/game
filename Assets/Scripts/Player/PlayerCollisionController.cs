@@ -38,6 +38,10 @@ public class PlayerCollisionController : MonoBehaviour
         smallMarioCollider.SetActive(false);
     }
 
+public GameObject GetBigCollider(){
+    return bigMarioCollider;
+}
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag.Equals(Tags.GROUND))

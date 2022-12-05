@@ -119,6 +119,9 @@ public class PlayerManager : MonoBehaviour
                 Invoke("HandleMarioIdle", 1.0f);
             }
         }
+        if(playerStateController.IsMarioInBigState() &&  !playerCollisionController.GetBigCollider().activeSelf){
+            playerCollisionController.MarioGotBigger();
+        }
     }
 
     private void ShootFireball()
@@ -260,6 +263,7 @@ public class PlayerManager : MonoBehaviour
 
     public void HandleStartMarioStomp()
     {
+        playerMoveController.SetMarioJumpingValue(true);
         HandleMarioStomp();
     }
 
@@ -267,6 +271,7 @@ public class PlayerManager : MonoBehaviour
     {
         HandleMarioIdle();
         playerMoveController.SetMarioStompingValue(false);
+        playerMoveController.SetMarioJumpingValue(false);
     }
 
     private void HandleMarioHitGround()

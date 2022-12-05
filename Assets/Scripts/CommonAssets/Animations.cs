@@ -72,4 +72,9 @@ public static class Animations
 
     //Bridge
     public const string BRIDGE = "Bridge";
+
+    // MrBlizzard
+    public const string MR_BLIZZARD_DIE = "MrBlizzardDie";
+
+    public const string THROW_SNOWBALL = "ThrowSnowball";
 }

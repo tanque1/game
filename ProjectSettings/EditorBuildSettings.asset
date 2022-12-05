@@ -32,4 +32,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldIntro.unity
     guid: 11f2db728fe9fae46aedbfbd4e6670d8
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 308c4808a6c2fed4eae4c59568453038
+  - enabled: 1
+    path: Assets/Scenes/SkyLevel.unity
+    guid: 1026dcb785e730d4c9f6757fd70d5248
+  - enabled: 1
+    path: Assets/Scenes/SnowLevel.unity
+    guid: a1a45087be439394abb26245d804faad
   m_configObjects: {}
